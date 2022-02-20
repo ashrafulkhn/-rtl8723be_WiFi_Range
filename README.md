@@ -7,6 +7,5 @@ Ashraful Khan
 Lead R&D Engineer. 
 B.E (Electronics and Communicaton Engineering).
 India
-# Contacts
-ashrafulkhn@gmail.com
+ashrafulkhn@gmail.com .
 www.linkedin.com/in/ashrafulkhn
